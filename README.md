@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sarvesh</h1>
+#  👋
+<p align="center"> 
+<img src="https://raw.githubusercontent.com/sarveshh/sarveshh/main/8.gif" alt="Hero image"/>
+<p/>
+
 <h3 align="center">A passionate Full Stack developer from India 🇮🇳</h3>
 
 <h4 align="center">Connect with me:</h4>
