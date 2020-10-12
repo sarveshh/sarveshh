@@ -1,15 +1,18 @@
-<h1 align="center">Hi 👋, I'm Sarvesh Patil</h1>
+<h1 align="center">Hi 👋, I'm Sarvesh</h1>
 <h3 align="center">A passionate Full Stack developer from India 🇮🇳</h3>
+
 <h4 align="center">Connect with me:</h4>
 <p align="center">
+  <a href="mailto:sarveshp273@gmail.com?subject=Just%20saw%20your%20work&body=Hi%20Sarvesh%2C%20I%20just%20saw%20your%20work%20and%20I%20would%20like%20to%20work%20with%20you." target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="sarveshh" height="30" width="40" /></a>
+  <a href="https://wa.link/uo0ony" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="sarveshh" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/sarveshp273" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sarveshp273" height="30" width="40" /></a>
+  <a href="https://instagram.com/sarvastic_af" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sarvastic_af" height="30" width="40" /></a>
 <a href="https://codepen.io/sarveshh" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="sarveshh" height="30" width="40" /></a>
 <a href="https://dev.to/sarveshh" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sarveshh" height="30" width="40" /></a>
 <a href="https://twitter.com/sarvastic_af" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sarvastic_af" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sarveshp273" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sarveshp273" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/sarveshh" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="sarveshh" height="30" width="40" /></a>
 <a href="https://codesandbox.com/sarveshf" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="sarveshf" height="30" width="40" /></a>
 <a href="https://kaggle.com/sarveshp273" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="sarveshp273" height="30" width="40" /></a>
-<a href="https://instagram.com/sarvastic_af" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sarvastic_af" height="30" width="40" /></a>
 <a href="https://dribbble.com/sarveshp273" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="sarveshp273" height="30" width="40" /></a>
 </p>
 
