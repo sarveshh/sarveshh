@@ -82,12 +82,12 @@
 
 <h3 align="center">What am I up to?</h3>
 
-> - ##### 🔭 I’m currently working on [Handwriter](http://handwriterr.herokuapp.com/)
-> - ##### 🌱 I’m currently learning **[three.js](https://threejs.org/), [GSAP](https://greensock.com/gsap/) and [passport.js](http://www.passportjs.org/)**
-> - #####  👨‍💻 All of my projects are available on [GitHub](https://github.com/sarveshh?tab=repositories)
-> - #####  📝 I regulary write articles on [dev.to](dev.to/sarveshh)
-> - #####  💬 Ask me about **Javascript, Python, React, MongoDB, Firebase**
-> - #####  ⚡ Fun fact **I transform coffee to code**
+> - 🔭 I’m currently working on [Handwriter](http://handwriterr.herokuapp.com/)
+> - 🌱 I’m currently learning **[three.js](https://threejs.org/), [GSAP](https://greensock.com/gsap/) and [passport.js](http://www.passportjs.org/)**
+> - 👨‍💻 All of my projects are available on [GitHub](https://github.com/sarveshh?tab=repositories)
+> - 📝 I regulary write articles on [dev.to](dev.to/sarveshh)
+> - 💬 Ask me about **Javascript, Python, React, MongoDB, Firebase**
+> - ⚡ Fun fact **I transform coffee to code**
 
 <br/>
 
