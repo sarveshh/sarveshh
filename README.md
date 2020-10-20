@@ -94,7 +94,7 @@
 
 
 <h3 align="center">Stats and Reach:</h3>
-<p align="right">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarveshh&title=Joined2020,Commit,Repositories" alt="sarveshh" /></a> </p>
+<p align="right">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarveshh&title=Joined2020,Commit,Repositories,PullRequest" alt="sarveshh" /></a> </p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarveshh&layout=compact" alt="sarveshh" /></p>
 
