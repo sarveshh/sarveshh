@@ -103,4 +103,6 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Text to Handwriting with OCR ! A super quick way to complete assignments.](https://medium.com/@sarveshh/text-to-handwriting-with-ocr-a-super-quick-way-to-complete-assignments-bedb86f2aef9?source=rss-f14e767a0878------2)
+- [Text to Handwriting with OCR ! A super quick way to complete assignments.](https://dev.to/sarveshh/text-to-handwriting-with-ocr-a-super-quick-way-to-complete-assignments-424i)
 <!-- BLOG-POST-LIST:END -->
