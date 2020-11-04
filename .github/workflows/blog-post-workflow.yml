@@ -12,4 +12,4 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 max_post_count: "2"
-                feed_list: "https://dev.to/feed/sarveshh, https://medium.com/feed/@sarveshh"
+                feed_list: "https://dev.to/feed/sarveshh"
