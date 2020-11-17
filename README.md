@@ -110,7 +110,7 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarveshh&layout=compact&langs_count=8&custom_title=Sarveshh%27s%20Most%20Used%20Languages" alt="sarveshh" /></p>
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sarveshh&show_icons=true&hide=issues&count_private=true&custom_title=Sarveshh%27s%20GitHub%20Stats" alt="sarveshh" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sarveshh&show_icons=true&count_private=true&custom_title=Sarveshh%27s%20GitHub%20Stats" alt="sarveshh" /></p>
 
 # Blog posts
 
