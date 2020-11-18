@@ -108,9 +108,9 @@
 <h3 align="center">Stats and Reach:</h3>
 <p align="right">&nbsp; <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarveshh&title=Joined2020,Commit,Repositories,PullRequest" alt="sarveshh" /></a> </p>
 
-<p align="center"><img src="https://https://github-readme-stats.sarveshh.vercel.app/api/top-langs/?username=sarveshh&layout=compact&langs_count=8&custom_title=Sarveshh%27s%20Most%20Used%20Languages" alt="sarveshh" /></p>
+<p align="center"><img src="https://github-readme-stats.sarveshh.vercel.app/api/top-langs/?username=sarveshh&layout=compact&langs_count=8&custom_title=Sarveshh%27s%20Most%20Used%20Languages" alt="sarveshh" /></p>
 
-<p align="center">&nbsp;<img src="https://https://github-readme-stats.sarveshh.vercel.app/api?username=sarveshh&show_icons=true&count_private=true&custom_title=Sarveshh%27s%20GitHub%20Stats" alt="sarveshh" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.sarveshh.vercel.app/api?username=sarveshh&show_icons=true&count_private=true&custom_title=Sarveshh%27s%20GitHub%20Stats" alt="sarveshh" /></p>
 
 # Blog posts
 
