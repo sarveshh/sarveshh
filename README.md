@@ -14,10 +14,7 @@
 <a href="https://codepen.io/sarveshh" target="_blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="sarveshh" height="30" width="40" /></a>
 <a href="https://dev.to/sarveshh" target="_blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sarveshh" height="30" width="40" /></a>
 <a href="https://twitter.com/sarvastic_af" target="_blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sarvastic_af" height="30" width="40" /></a>
-<a href="https://codesandbox.com/sarveshf" target="_blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="sarveshf" height="30" width="40" /></a>
 </p>
-
-
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sarveshh&label=Profile%20views&color=0277c0&style=flat-square" alt="sarveshh" width="130"/> </p>
 
