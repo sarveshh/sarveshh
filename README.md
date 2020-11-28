@@ -14,10 +14,7 @@
 <a href="https://codepen.io/sarveshh" target="_blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="sarveshh" height="30" width="40" /></a>
 <a href="https://dev.to/sarveshh" target="_blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sarveshh" height="30" width="40" /></a>
 <a href="https://twitter.com/sarvastic_af" target="_blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sarvastic_af" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/sarveshh" target="_blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="sarveshh" height="30" width="40" /></a>
 <a href="https://codesandbox.com/sarveshf" target="_blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="sarveshf" height="30" width="40" /></a>
-<a href="https://kaggle.com/sarveshp273" target="_blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="sarveshp273" height="30" width="40" /></a>
-<a href="https://dribbble.com/sarveshp273" target="_blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="sarveshp273" height="30" width="40" /></a>
 </p>
 
 
