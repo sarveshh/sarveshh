@@ -109,6 +109,6 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Useful GitHub repositories for learning Web Development](https://dev.to/sarveshh/useful-github-repositories-for-learning-web-development-ge8)
 - [Reasons to use Next.js instead of create-react-app in your next project](https://dev.to/sarveshh/reasons-to-use-next-js-instead-of-react-in-your-next-project-2n7k)
-- [Text to Handwriting with OCR ! A super quick way to complete assignments.](https://dev.to/sarveshh/text-to-handwriting-with-ocr-a-super-quick-way-to-complete-assignments-424i)
 <!-- BLOG-POST-LIST:END -->
