@@ -10,10 +10,8 @@
   <a href="mailto:sarveshp273@gmail.com?subject=Just%20saw%20your%20work&body=Hi%20Sarvesh%2C%20I%20just%20saw%20your%20work%20and%20I%20would%20like%20to%20work%20with%20you." target="_blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="sarveshh" height="30" width="40" /></a>
   <a href="https://wa.link/uo0ony" target="_blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="sarveshh" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/sarveshp273" target="_blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sarveshp273" height="30" width="40" /></a>
-  <a href="https://instagram.com/sarvastic_af" target="_blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sarvastic_af" height="30" width="40" /></a>
 <a href="https://codepen.io/sarveshh" target="_blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="sarveshh" height="30" width="40" /></a>
 <a href="https://dev.to/sarveshh" target="_blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sarveshh" height="30" width="40" /></a>
-<a href="https://twitter.com/sarvastic_af" target="_blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sarvastic_af" height="30" width="40" /></a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sarveshh&label=Profile%20views&color=0277c0&style=flat-square" alt="sarveshh" width="130"/> </p>
@@ -100,11 +98,11 @@
 
 
 <h3 align="center">Stats and Reach:</h3>
-<p align="right">&nbsp; <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarveshh&title=Joined2020,Commit,Repositories,PullRequest" alt="sarveshh" /></a> </p>
+<p align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarveshh&title=Joined2020,Commit,Repositories,PullRequest,Stars" alt="sarveshh" /></a> </p>
 
 <p align="center"><img src="https://github-readme-stats.sarveshh.vercel.app/api/top-langs/?username=sarveshh&layout=compact&langs_count=8&custom_title=Sarveshh%27s%20Most%20Used%20Languages" alt="sarveshh" /></p>
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.sarveshh.vercel.app/api?username=sarveshh&show_icons=true&count_private=true&custom_title=Sarveshh%27s%20GitHub%20Stats" alt="sarveshh" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.sarveshh.vercel.app/api?username=sarveshh&show_icons=true&count_private=true&custom_title=Sarveshh%27s%20GitHub%20Stats&include_all_commits=true&count_private=true" alt="sarveshh" /></p>
 
 # Blog posts
 
