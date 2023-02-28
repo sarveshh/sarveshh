@@ -12,7 +12,7 @@
 <a href="https://codepen.io/sarveshh" target="_blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sarveshh" height="30" width="40" /></a>
 <a href="https://dev.to/sarveshh" target="_blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sarveshh" height="30" width="40" /></a>
   <a href="https://twitter.com/SarveshhPatil" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarveshh" height="30" width="40" /></a>
-<a href="sarveshh.medium.com" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="sarveshh" height="30" width="40" /></a>
+<a href="https://sarveshh.medium.com/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="sarveshh" height="30" width="40" /></a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sarveshh&label=Profile%20views&color=0277c0&style=flat-square" alt="sarveshh" width="130"/> </p>
@@ -47,7 +47,7 @@
 > - 💻 I’m currently working on [My portfolio website](https://sarveshpatil.com/)
 > - 📕 I’m currently learning **[three.js](https://threejs.org/) and [GSAP](https://greensock.com/gsap/)**
 > - 👨‍💻 All of my projects are available on [GitHub](https://github.com/sarveshh?tab=repositories)
-> - 📝 I regulary write articles on **[dev.tos](https://dev.to/sarveshh) and [Medium](https://blog.sarveshpatil.com/)**
+> - 📝 I regulary write articles on **[dev.to](https://dev.to/sarveshh) and [Medium](https://blog.sarveshpatil.com/)**
 > - ⚡ Fun fact **I transform coffee to code**
 > - 📨 I regularly send exciting stuff on my [Newsletter](https://sarveshh.beehiiv.com/subscribe)
 
