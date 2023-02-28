@@ -1,11 +1,10 @@
 #  👋
-<p align="center"> 
-<img src="https://raw.githubusercontent.com/sarveshh/sarveshh/main/8.gif" alt="Hero image"/>
-<p/>
+<p align="center"><img src="https://raw.githubusercontent.com/sarveshh/sarveshh/main/8.gif" alt="Hero image"/><p/>
 
 <h3 align="center">A passionate Full Stack developer from India 🇮🇳</h3>
 
 <h3 align="center">Connect with me:</h3>
+
 <p align="center">
   <a href="mailto:sarveshp273@gmail.com?subject=Just%20saw%20your%20work&body=Hi%20Sarvesh%2C%20I%20just%20saw%20your%20work%20and%20I%20would%20like%20to%20work%20with%20you." target="_blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="sarveshh" height="30" width="40" /></a>
   <a href="https://wa.link/uo0ony" target="_blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="sarveshh" height="30" width="40" /></a>
