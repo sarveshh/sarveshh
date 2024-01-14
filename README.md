@@ -47,7 +47,7 @@
 > - 💻 I’m currently working on [My portfolio website](https://sarveshpatil.com/)
 > - 📕 I’m currently learning **[three.js](https://threejs.org/) and [GSAP](https://greensock.com/gsap/)**
 > - 👨‍💻 All of my projects are available on [GitHub](https://github.com/sarveshh?tab=repositories)
-> - 📝 I regulary write articles on **[dev.to](https://dev.to/sarveshh) and [Medium](https://blog.sarveshpatil.com/)**
+> - 📝 I regulary write articles on **[dev.to](https://dev.to/sarveshh) and [Medium](https://sarveshpatil.com/blog)**
 > - ⚡ Fun fact **I transform coffee to code**
 > - 📨 I regularly send exciting stuff on my [Newsletter](https://sarveshh.beehiiv.com/subscribe)
 
