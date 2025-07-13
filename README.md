@@ -23,17 +23,16 @@
 > - 📕 I’m currently learning **[three.js](https://threejs.org/) and [GSAP](https://greensock.com/gsap/)**
 > - 👨‍💻 All of my projects are available on [GitHub](https://github.com/sarveshh?tab=repositories)
 > - 📝 I regulary write articles on **[dev.to](https://dev.to/sarveshh) and [Medium](https://sarveshpatil.com/blog)**
-> - ⚡ Fun fact **I transform coffee to code**
-> - 📨 I regularly send exciting stuff on my [Newsletter](https://sarveshh.beehiiv.com/subscribe)
 
 <br/>
 
-<h3 align="center">Stats and Reach:</h3>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=sarveshh&title=Joined2020,Commit,Repositories,PullRequest,Stars" alt="sarveshh" /> </p>
+# Stats and reach
 
-<p align="center"><img src="https://github-readme-stats.sarveshh.vercel.app/api/top-langs/?username=sarveshh&layout=compact&langs_count=8&custom_title=Sarveshh%27s%20Most%20Used%20Languages" alt="sarveshh" /></p>
+<p><img src="https://github-profile-trophy.vercel.app/?username=sarveshh&title=Joined2020,Commit,Repositories,PullRequest,Stars" alt="sarveshh"/> </p>
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.sarveshh.vercel.app/api?username=sarveshh&show_icons=true&count_private=true&custom_title=Sarveshh%27s%20GitHub%20Stats&include_all_commits=true&count_private=true" alt="sarveshh" /></p>
+<p><img src="https://github-readme-stats.sarveshh.vercel.app/api/top-langs/?username=sarveshh&layout=compact&langs_count=8&custom_title=Sarveshh%27s%20Most%20Used%20Languages" alt="sarveshh" /></p>
+
+<p><img src="https://github-readme-stats.sarveshh.vercel.app/api?username=sarveshh&show_icons=true&count_private=true&custom_title=Sarveshh%27s%20GitHub%20Stats&include_all_commits=true&count_private=true" alt="sarveshh" /></p>
 
 # Blog posts
 
