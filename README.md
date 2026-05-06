@@ -1,40 +1,57 @@
-#  
-<!--  <p align="center"><img src="https://raw.githubusercontent.com/sarveshh/sarveshh/main/8.gif" alt="Hero image"/><p/> -->
-
-<h2 align="center">👋 Hi, I'm Sarvesh</h3>
-<h3 align="center">A passionate Full Stack developer from 🇮🇳</h3>
-
-<h2 align="center">Connect with me:</h2>
-
 <p align="center">
-  <a href="mailto:admin@sarveshpatil.com?subject=Just%20saw%20your%20work&body=Hi%20Sarvesh%2C%20I%20just%20saw%20your%20work%20and%20I%20would%20like%20to%20work%20with%20you." target="_blank"><img  src="https://api.iconify.design/logos:google-gmail.svg?color=%2345a239" alt="sarveshh" height="30" width="40" /></a>
- <!-- <a href="https://wa.link/uo0ony" target="_blank"><img  src="https://api.iconify.design/logos:whatsapp-icon.svg?color=%2345a239" alt="sarveshh" height="30" width="40" /></a> -->
-  <a href="https://linkedin.com/in/sarveshp273" target="_blank"><img  src="https://api.iconify.design/logos:linkedin-icon.svg?color=%2345a239" alt="sarveshp273" height="30" width="40" /></a>
-<!-- <a href="https://codepen.io/sarveshh" target="_blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sarveshh" height="30" width="40" /></a> -->
-<a href="https://dev.to/sarveshh" target="_blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sarveshh" height="30" width="40" /></a>
-<a href="https://sarveshh.medium.com/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="sarveshh" height="30" width="40" /></a>
+  <img src="8.gif" alt="Hero image" width="100%" />
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sarveshh&label=Profile%20views&color=0277c0&style=flat-square" alt="sarveshh" width="130"/> </p>
+<h1 align="center">Hi, I'm Sarvesh 👋</h1>
+<p align="center">Full Stack Developer from 🇮🇳</p>
 
-<h2 align="center">What am I up to?</h2>
+<p align="center">
+  <a href="mailto:admin@sarveshpatil.com?subject=Just%20saw%20your%20work&body=Hi%20Sarvesh%2C%20I%20just%20saw%20your%20work%20and%20I%20would%20like%20to%20work%20with%20you." target="_blank" rel="noreferrer">
+    <img src="https://api.iconify.design/logos:google-gmail.svg?color=%2345a239" alt="Email" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/sarveshp273" target="_blank" rel="noreferrer">
+    <img src="https://api.iconify.design/logos:linkedin-icon.svg?color=%2345a239" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://dev.to/sarveshh" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" />
+  </a>
+  <a href="https://sarveshh.medium.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
+  </a>
+</p>
 
-> - 💻 I’m currently working on [My portfolio website](https://sarveshpatil.com/)
-> - 📕 I’m currently learning **[three.js](https://threejs.org/) and [GSAP](https://greensock.com/gsap/)**
-> - 👨‍💻 All of my projects are available on [GitHub](https://github.com/sarveshh?tab=repositories)
-> - 📝 I regulary write articles on **[dev.to](https://dev.to/sarveshh) and [Medium](https://sarveshpatil.com/blog)**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sarveshh&label=Profile%20views&color=0277c0&style=flat-square" alt="Profile views" width="130" />
+</p>
 
-<br/>
+---
 
-# Stats and reach
+## What am I up to?
 
-<p><img src="https://github-profile-trophy.vercel.app/?username=sarveshh&title=Joined2020,Commit,Repositories,PullRequest,Stars" alt="sarveshh"/> </p>
+- 💻 Working on [My portfolio website](https://sarveshpatil.com/)
+- 📕 Learning **[three.js](https://threejs.org/)** and **[GSAP](https://greensock.com/gsap/)**
+- 👨‍💻 Projects on [GitHub](https://github.com/sarveshh?tab=repositories)
+- 📝 Writing on **[dev.to](https://dev.to/sarveshh)** and **[Medium](https://sarveshpatil.com/blog)**
 
-<p><img src="https://github-readme-stats.sarveshh.vercel.app/api/top-langs/?username=sarveshh&layout=compact&langs_count=8&custom_title=Sarveshh%27s%20Most%20Used%20Languages" alt="sarveshh" /></p>
+---
 
-<p><img src="https://github-readme-stats.sarveshh.vercel.app/api?username=sarveshh&show_icons=true&count_private=true&custom_title=Sarveshh%27s%20GitHub%20Stats&include_all_commits=true&count_private=true" alt="sarveshh" /></p>
+## Stats & Reach
 
-# Blog posts
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sarveshh&title=Joined2020,Commit,Repositories,PullRequest,Stars" alt="GitHub trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.sarveshh.vercel.app/api/top-langs/?username=sarveshh&layout=compact&langs_count=8&custom_title=Sarveshh%27s%20Most%20Used%20Languages" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.sarveshh.vercel.app/api?username=sarveshh&show_icons=true&count_private=true&custom_title=Sarveshh%27s%20GitHub%20Stats&include_all_commits=true&count_private=true" alt="GitHub stats" />
+</p>
+
+---
+
+## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Useful GitHub repositories for learning Web Development](https://dev.to/sarveshh/useful-github-repositories-for-learning-web-development-ge8)
