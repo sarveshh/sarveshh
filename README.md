@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="8.gif" alt="Hero image" width="100%" />
+  <img src="8.gif" alt="Animated banner showcasing Sarvesh's work" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Sarvesh 👋</h1>
@@ -7,16 +7,16 @@
 
 <p align="center">
   <a href="mailto:admin@sarveshpatil.com?subject=Just%20saw%20your%20work&body=Hi%20Sarvesh%2C%20I%20just%20saw%20your%20work%20and%20I%20would%20like%20to%20work%20with%20you." target="_blank" rel="noreferrer">
-    <img src="https://api.iconify.design/logos:google-gmail.svg?color=%2345a239" alt="Email" height="30" width="40" />
+    <img src="https://api.iconify.design/logos:google-gmail.svg?color=%2345a239" alt="Email Sarvesh" height="30" width="40" />
   </a>
   <a href="https://linkedin.com/in/sarveshp273" target="_blank" rel="noreferrer">
-    <img src="https://api.iconify.design/logos:linkedin-icon.svg?color=%2345a239" alt="LinkedIn" height="30" width="40" />
+    <img src="https://api.iconify.design/logos:linkedin-icon.svg?color=%2345a239" alt="LinkedIn profile" height="30" width="40" />
   </a>
   <a href="https://dev.to/sarveshh" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to profile" height="30" width="40" />
   </a>
   <a href="https://sarveshh.medium.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium blog" height="30" width="40" />
   </a>
 </p>
 
