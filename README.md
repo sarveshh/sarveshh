@@ -46,7 +46,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.sarveshh.vercel.app/api?username=sarveshh&show_icons=true&custom_title=Sarveshh%27s%20GitHub%20Stats&include_all_commits=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.sarveshh.vercel.app/api?username=sarveshh&show_icons=true&custom_title=Sarveshh%27s%20GitHub%20Stats" alt="GitHub stats" />
 </p>
 
 ---
